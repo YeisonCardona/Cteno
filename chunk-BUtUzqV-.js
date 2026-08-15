@@ -1,0 +1,1 @@
+import{en as Yt}from"./chunk-CdnfGufr.js";var o=(()=>{class r{isErrorState(t,e){return!!(t&&t.invalid&&(t.touched||e&&e.submitted))}isSignalErrorState(t){if(!t)return!1;let e=t().invalid(),n=t().touched();return e&&n}static ɵfac=function(e){return new(e||r)};static ɵprov=Yt({token:r,factory:r.ɵfac})}return r})();export{o as t};

@@ -1,1 +1,0 @@
-import{ea as r,o as a}from"./chunk-3VK5VDXH.js";var c=class t{activeNavLinkSubject=new a([""]);activeNavLink$=this.activeNavLinkSubject.asObservable();setNavActiveLink(i,e=""){this.activeNavLinkSubject.next([i,e])}static \u0275fac=function(e){return new(e||t)};static \u0275prov=r({token:t,factory:t.\u0275fac,providedIn:"root"})};export{c as a};
